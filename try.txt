@@ -1,0 +1,1 @@
+保留hosts中github官网地址，删除其他cdn
